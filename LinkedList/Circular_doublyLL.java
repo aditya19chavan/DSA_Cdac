@@ -88,7 +88,7 @@ public class Circular_doublyLL {
             System.out.println();
         }
     }
- void printReverse() {
+ void print_reverse() {
         if (root == null) {
             System.out.println("List Empty");
         } else {
